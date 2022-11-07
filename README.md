@@ -36,9 +36,9 @@
         - No individual connections (I think?)
 - [ClickUp](https://clickup.com/)
     - Work management
-- [Monday](monday.com)
+- [Monday](https://www.monday.com)
     - Work management
 - Trello
     - Project management
-- [Figma](www.figma.com)
+- [Figma](https://www.figma.com)
     
