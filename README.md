@@ -11,6 +11,7 @@
 8. Daily/Monthly/Yearly goals
     - Enable setting specific time frames for yourself
 8. Quick notes
+9. Support all forms of note taking, such as images and code. Implement support for code blocks of all sorts of languages
 
 ### Online social functions:
 1. Can make posts whever something is updated
