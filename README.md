@@ -1,5 +1,6 @@
 # Productivity App
-### Implement the following basic components:
+## Implement the following basic components:
+
 1. Calendar (Google calendar embed API?)
 2. Daily planner
 3. Journal
@@ -13,14 +14,16 @@
 8. Quick notes
 9. Support all forms of note taking, such as images and code. Implement support for code blocks of all sorts of languages
 
-### Online social functions:
+---
+## Online social functions:
 1. Can make posts whever something is updated
 2. Can leave messages or cheer each other on friends' posts
 3. Connect with a friend if you are working together on something and manage updates together
 4. Creat a separate module for sharing productivity tips, knowledge, and whatnot. Kind of like dev twitter
     - This one can allow public followings as a separate profile almost
 
-### Websites to learn from
+---
+## Websites to learn from
 - Most of the below are for work
 - [Notion](https://www.notion.so)
     - Modules:
