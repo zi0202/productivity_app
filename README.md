@@ -20,8 +20,8 @@
     - This one can allow public followings as a separate profile almost
 
 ### Websites to learn from
-- Notion
-    - [https://www.notion.so]
+- Most of the below are for work
+- [Notion](https://www.notion.so)
     - Modules:
         - Project management
         - To-do lists
@@ -30,11 +30,9 @@
     - Notes:
         - More focused on team-based management
         - No individual connections (I think?)
-- ClickUp
-    - [https://clickup.com/]
-
+- [ClickUp](https://clickup.com/)
+    - Work management
 - Trello
     - Project management
-- 
-- Figma
-    - [www.figma.com]
+- [Figma](www.figma.com)
+    
